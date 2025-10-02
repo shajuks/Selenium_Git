@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-29T04:58:07Z" name="Default suite" finished-at="2025-09-29T04:58:07Z" duration-ms="25">
+    <groups>
+    </groups>
+    <test started-at="2025-09-29T04:58:07Z" name="Default test" finished-at="2025-09-29T04:58:07Z" duration-ms="25">
+      <class name="Selinium_Git.Selenium_git">
+        <test-method signature="f()[pri:0, instance:Selinium_Git.Selenium_git@654f0d9c]" started-at="2025-09-29T10:28:07Z" name="f" finished-at="2025-09-29T10:28:07Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Selinium_Git.Selenium_git -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
